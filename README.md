@@ -103,7 +103,7 @@ Seeded automatically on startup:
 
 FastAPI auto-generates OpenAPI docs at `/docs` (Swagger UI) and `/redoc`. The API title is **DocVault**.
 
-## Security
+## Security.
 
 - JWT access + refresh token flow
 - bcrypt password hashing
