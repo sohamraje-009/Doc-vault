@@ -1,4 +1,4 @@
-# DocVault
+# DocVault:
 
 Enterprise-grade document management platform built with React, TypeScript, FastAPI, and PostgreSQL.
 
