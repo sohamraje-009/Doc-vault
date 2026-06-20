@@ -11,7 +11,7 @@ Centralized document management for company departments with secure storage, sea
 | Frontend | React 19, TypeScript, Vite, MUI, React Router, Axios, React Query |
 | Backend | FastAPI, Python 3.13+, SQLAlchemy, Alembic, JWT, Pydantic |
 | Database | PostgreSQL |
-| Storage | Local filesystem (cloud-ready abstraction) |
+| Storage | Local filesystem (cloud-ready abstraction)|
 
 ## Project Structure
 
