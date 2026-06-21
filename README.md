@@ -4,7 +4,7 @@ Enterprise-grade document management platform built with React, TypeScript, Fast
 
 Centralized document management for company departments with secure storage, search, download tracking, auditability, and role-based access control.
 
-## Tech Stack
+## Tech Stack :
 
 | Layer | Technologies |
 |-------|-------------|
