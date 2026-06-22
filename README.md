@@ -13,7 +13,7 @@ Centralized document management for company departments with secure storage, sea
 | Database | PostgreSQL |
 | Storage | Local filesystem (cloud-ready abstraction)|
 
-## Project Structure
+## Project Structure :
 
 ```
 docvault/
